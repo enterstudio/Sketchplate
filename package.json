@@ -14,7 +14,7 @@
     "test": "mocha --reporter progress test/*"
   },
   "dependencies": {
-    "adm-zip": "~0.4.7",
+    "adm-zip": "~0.5.2",
     "async": "2.0.1",
     "colors": "0.6.2",
     "commander": "1.0",
