@@ -24,7 +24,7 @@
     "mkdirp": "0.3.5",
     "orion": "0.0.30",
     "request": ">=2.9.203",
-    "underscore": "~1.5.2",
+    "underscore": "~1.12.1",
     "win-spawn": "1.1.2"
   },
   "devDependencies": {
